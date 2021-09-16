@@ -36,9 +36,25 @@ library(knitr)
 library(tidyverse)
 library(widgetframe)
 ```
+---
+class: middle, center  
+
+# Leonardo F. Nascimento
+
+```{r out.width="25%"}
+knitr::include_graphics("img/logos_bia.png")
+```
+
+## 15% Programador, 20% Químico, 25% Psicólogo, 40% Cientista Social
+<br>
+
+### [Email: **leofn3@gmail.com**](mailto:leofn3@gmail.com) 
+
+### [Twitter:**@leofn3**](http://www.twitter.com/leofn3) 
+
+### [website: **www.leofn.com**](http://www.leofn.com)
 
 ---
-
 class: middle, center  
 
 ```{r, out.width="50%"}
