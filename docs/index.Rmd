@@ -1,8 +1,5 @@
 ---
-title: "**Sociologia digital em debate**"
-author: "Leonardo F. Nascimento"
-institute: "Universidade Federal da Bahia - LABHDUFBA"
-date: "`r Sys.Date()`"
+title: "-"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
@@ -202,6 +199,28 @@ knitr::include_graphics("img/marres.jpg")
 [Clique para acessar](https://www.amazon.com.br/Digital-Sociology-Reinvention-Research-English-ebook/dp/B071HRPK4B/ref=sr_1_2)
 ]
 
+---
+class: middle, center
+
+.pull-left[
+
+#2019
+
+```{r, out.width="65%"}
+knitr::include_graphics("img/selwyn.jpg")
+```
+[Clique para acessar](https://www.amazon.com.br/What-Digital-Sociology-Neil-Selwyn/dp/1509527117)
+
+]
+.pull-right[
+
+#2020*
+
+```{r, out.width="950px"}
+knitr::include_graphics("img/gabe.jpeg")
+```
+[Clique para acessar](https://www.amazon.com/Sociological-Theory-Digital-Gabe-Ignatow/dp/0367263475)
+]
 
 ---
 class: middle, center
@@ -356,18 +375,51 @@ class: inverse, center, middle
 ---
 class: middle, center
 
+--
+# Vamos aprender a andar de bicicleta?
+<br>
+
+--
+### Utilidade;
+<br>
+
+--
+### Aprendizado; 
+<br>
+
+--
+### Aperfeiçoamento;
+<br>
+
+--
+### Diversificação;
+<br>
+
+--
+### "Artesanato digital"
+<br>
+
+---
+class: inverse, center, middle
+
+# **Na prática** o que eu devo fazer?
+
+
+---
+class: middle, center
+
 ## Obrigado gente!
 
 .pull-left[
-```{r, out.width="70%"}
-knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.gif")
+```{r, out.width="90%"}
+knitr::include_graphics("https://media.giphy.com/media/3otPoOxyDTXjzpMbIY/giphy.gif")
 ```
 ]
 .pull-right[
 ##**Agradecimentos especiais**:
 <br>
 
-### Prof. Jimmy Medeiros e ao Laboratório de Humanidades Digitais do CPDOC- Pelo convite!
+### Ao **prof. Samuel Barros** e à FACOM/PósCom - Pelo convite!
 <br>
 
 ### Ao público pela paciência!
